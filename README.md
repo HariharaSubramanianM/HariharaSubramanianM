@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @HariharaSubramanianM
-- 👀 I’m interested in Web Developement and Deep Learning
-- 🌱 I’m currently learning Django and DL Algorithms
-- 💞️ I’m looking to collaborate on projects involving both ML/DL background work along with web developement
+- 👀 I’m interested in Software Developement and Architecture
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
